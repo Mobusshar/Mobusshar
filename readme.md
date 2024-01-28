@@ -31,7 +31,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Mobusshar+Islam">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Bangladesh</b>, currently living in <b>Oulu, Finland</b>」
     <br>
     <br>
   </samp>
