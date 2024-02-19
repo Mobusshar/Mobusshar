@@ -38,6 +38,11 @@
   </samp>
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/mobusshar)
+![GitHub User's stars](https://img.shields.io/github/stars/mobusshar)
+
+
+
 <p align="center">
  <a href="https://Mobusshar.com" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Mobusshar" />
